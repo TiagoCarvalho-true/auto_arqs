@@ -22,7 +22,8 @@ Este projeto consiste em um script Python que automatiza o upload de arquivos pa
    ```python
    caminho_arquivo = r'C:\caminho\para\seu\arquivo.extensao'  # Altere este caminho
 
- ##🔐 Autenticação
+
+
 O script gerencia automaticamente:
 - Verificação de credenciais existentes
 - Renovação de tokens expirados
